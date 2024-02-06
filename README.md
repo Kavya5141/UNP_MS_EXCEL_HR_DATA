@@ -5,13 +5,9 @@ Completed this project as part of my Value Added Course with Unites Networks of 
 Key Highlights :
 
   1. Scuccessfully transformed HR ATTRITION extensive dataset into a comprehensive and insightful Excel dashboard.
-
   2. Leveraged Excel charts, graphs, and conditional formatting for a compelling and easy-to-understand presentation of data.
-
   3. Designed a user-friendly dashboard interface accessible to users across different levels of expertise with the organisation.
-
   4. Visualized Key Performance Indicators(KPIs)in a format that provides a quick overview of attrition trends, reasons, and effectiveness of retention statergies
-
   5. Applied relevant Excel functions and formulas to optimize and structure the data for effective visualization
 
 PDF Link : https://drive.google.com/file/d/1E15XZOXvuCfYydwzn64zpKA1KCMPDsUS/view?usp=sharing
